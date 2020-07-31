@@ -1,0 +1,19 @@
+c:\users\aluno\documents\visual studio 2012\Projects\JOGO_VELHA\JOGO_VELHA\bin\Debug\JOGO_VELHA.exe.config
+c:\users\aluno\documents\visual studio 2012\Projects\JOGO_VELHA\JOGO_VELHA\bin\Debug\JOGO_VELHA.exe
+c:\users\aluno\documents\visual studio 2012\Projects\JOGO_VELHA\JOGO_VELHA\bin\Debug\JOGO_VELHA.pdb
+c:\users\aluno\documents\visual studio 2012\Projects\JOGO_VELHA\JOGO_VELHA\obj\Debug\JOGO_VELHA.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2012\Projects\JOGO_VELHA\JOGO_VELHA\obj\Debug\JOGO_VELHA.Form1.resources
+c:\users\aluno\documents\visual studio 2012\Projects\JOGO_VELHA\JOGO_VELHA\obj\Debug\JOGO_VELHA.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2012\Projects\JOGO_VELHA\JOGO_VELHA\obj\Debug\JOGO_VELHA.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2012\Projects\JOGO_VELHA\JOGO_VELHA\obj\Debug\JOGO_VELHA.exe
+c:\users\aluno\documents\visual studio 2012\Projects\JOGO_VELHA\JOGO_VELHA\obj\Debug\JOGO_VELHA.pdb
+C:\Users\Giovan\Downloads\JOGO_VELHA\JOGO_VELHA\bin\Debug\JOGO_VELHA.exe.config
+C:\Users\Giovan\Downloads\JOGO_VELHA\JOGO_VELHA\bin\Debug\JOGO_VELHA.exe
+C:\Users\Giovan\Downloads\JOGO_VELHA\JOGO_VELHA\bin\Debug\JOGO_VELHA.pdb
+C:\Users\Giovan\Downloads\JOGO_VELHA\JOGO_VELHA\obj\Debug\JOGO_VELHA.csprojAssemblyReference.cache
+C:\Users\Giovan\Downloads\JOGO_VELHA\JOGO_VELHA\obj\Debug\JOGO_VELHA.Form1.resources
+C:\Users\Giovan\Downloads\JOGO_VELHA\JOGO_VELHA\obj\Debug\JOGO_VELHA.Properties.Resources.resources
+C:\Users\Giovan\Downloads\JOGO_VELHA\JOGO_VELHA\obj\Debug\JOGO_VELHA.csproj.GenerateResource.cache
+C:\Users\Giovan\Downloads\JOGO_VELHA\JOGO_VELHA\obj\Debug\JOGO_VELHA.csproj.CoreCompileInputs.cache
+C:\Users\Giovan\Downloads\JOGO_VELHA\JOGO_VELHA\obj\Debug\JOGO_VELHA.exe
+C:\Users\Giovan\Downloads\JOGO_VELHA\JOGO_VELHA\obj\Debug\JOGO_VELHA.pdb
